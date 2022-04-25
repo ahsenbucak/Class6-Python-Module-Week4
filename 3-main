@@ -1,0 +1,5 @@
+from my_dice import rollDice
+
+repetation=int(input("Enter repetition number: "))
+
+print(rollDice(repetation))
